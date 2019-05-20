@@ -1,4 +1,4 @@
-﻿Participant_ID,Presented_Stimulus,Mental_Complexity,Distraction_Given,Key_Pressed,Right_Key_Chosen,Reaction_Time,Timestamp
+Participant_ID,Presented_Stimulus,Mental_Complexity,Distraction_Given,Key_Pressed,Right_Key_Chosen,Reaction_Time,Timestamp
 1,Red Rectangle,A,N,j,True,0.7892284393310547,2019-05-14 16:15:32.404836
 1,Red Rectangle,A,D,j,True,0.731586217880249,2019-05-14 16:15:34.161124
 1,3 * 8 = 24,P,D,f,True,1.0815179347991943,2019-05-14 16:15:36.261990
